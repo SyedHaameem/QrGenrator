@@ -1,0 +1,2 @@
+# QrGenrator
+Genrate QR
