@@ -1,7 +1,7 @@
 #install the labires needed 
-# caete a  fubnvtuin thst colleccrrrt= the rtexta and converts it to ar cide
+# create a  function  
 #save the qr code as an image 
-#run fi=unction
+#run function
 #import qrcode.constants
 import qrcode
 import qrcode.constants
